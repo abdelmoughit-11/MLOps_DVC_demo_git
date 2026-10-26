@@ -1,0 +1,5 @@
+outs:
+- md5: 20142f21a5fae92835427049bbf2952a
+  size: 37
+  hash: md5
+  path: patients.csv
